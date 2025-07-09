@@ -154,3 +154,95 @@ Para administrar un directorio telefónico sin claves duplicadas y ordenado por 
 ## Imagen Final
 
 ![image](https://github.com/user-attachments/assets/547138d7-4035-47c5-b0a4-7c618613372a)
+
+## Salida consola final
+
+Estudiante: Adriano Rodas
+Empleado agregado: 
+SID: 4, Name: Pedro, Position: DEV
+Empleado agregado: 
+SID: 2, Name: Pedro, Position: DEV
+Empleado agregado: 
+SID: 5, Name: Juan, Position: DEV
+Empleado agregado: 
+SID: 3, Name: Maria, Position: DEV
+Empleado agregado: 
+SID: 1, Name: Juan, Position: DEV
+
+>>> Listado inicial de empleados (HashMap):
+
+Lista de empleados:
+
+SID: 1, Name: Juan, Position: DEV
+
+SID: 2, Name: Pedro, Position: DEV
+
+SID: 3, Name: Maria, Position: DEV
+
+SID: 4, Name: Pedro, Position: DEV
+
+SID: 5, Name: Juan, Position: DEV
+
+>>> Eliminando empleado con ID 2...
+Empleado eliminado: 
+SID: 2, Name: Pedro, Position: DEV
+
+>>> Listado actualizado de empleados:
+
+Lista de empleados:
+
+SID: 1, Name: Juan, Position: DEV
+
+SID: 3, Name: Maria, Position: DEV
+
+SID: 4, Name: Pedro, Position: DEV
+
+SID: 5, Name: Juan, Position: DEV
+Empleado agregado: 
+SID: 5, Name: Pedro, Position: Dev
+Empleado agregado: 
+SID: 3, Name: Juan, Position: Dev
+Empleado agregado: 
+SID: 1, Name: Jose, Position: Dev
+Empleado agregado: 
+SID: 2, Name: Pedro, Position: Dev
+Empleado agregado: 
+SID: 4, Name: Pedro, Position: Dev
+Empleado agregado: 
+SID: 5, Name: Pedro, Position: Dev
+Empleado agregado: 
+SID: 3, Name: Juan, Position: Dev
+Empleado agregado: 
+SID: 1, Name: Jose, Position: Dev
+Empleado agregado: 
+SID: 2, Name: Pedro, Position: Dev
+Empleado agregado: 
+SID: 4, Name: Pedro, Position: Dev
+
+===== Empleados almacenados en HASH MAP =====
+
+Lista de empleados:
+
+SID: 1, Name: Jose, Position: Dev
+
+SID: 2, Name: Pedro, Position: Dev
+
+SID: 3, Name: Juan, Position: Dev
+
+SID: 4, Name: Pedro, Position: Dev
+
+SID: 5, Name: Pedro, Position: Dev
+
+===== Empleados almacenados en TREE MAP =====
+
+Lista de empleados:
+
+SID: 1, Name: Jose, Position: Dev
+
+SID: 2, Name: Pedro, Position: Dev
+
+SID: 3, Name: Juan, Position: Dev
+
+SID: 4, Name: Pedro, Position: Dev
+
+SID: 5, Name: Pedro, Position: Dev
